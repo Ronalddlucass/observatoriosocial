@@ -1,4 +1,4 @@
-Observatório Social do Brasil - Indaial SC
+#Observatório Social do Brasil - Indaial SC
 Este projeto tem como objetivo analisar o Observatório Social de Indaial SC e responder a questões importantes relacionadas à gestão pública e gastos. Para isso, foram utilizadas técnicas de WebScraping para coletar os dados do site do Observatório e armazenados em um banco de dados SQLServer. Em seguida, foi utilizada a ferramenta de visualização Power BI para analisar e obter insights para resolver os problemas propostos.
 
 Problemas a serem resolvidos
