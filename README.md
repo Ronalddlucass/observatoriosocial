@@ -1,6 +1,6 @@
 Observatório Social do Brasil - Indaial SC
 
-Este projeto tem como objetivo analisar o Observatório Social de Indaial SC e responder a questões importantes relacionadas à gestão pública e gastos. Para isso, foram utilizadas técnicas de WebScraping para coletar os dados do site do Observatório e armazenados em um banco de dados SQLServer. Em seguida, foi utilizada a ferramenta de visualização Power BI para analisar e obter insights para resolver os problemas propostos.
+Este projeto tem como objetivo analisar o Observatório Social de Indaial SC e responder a questões importantes relacionadas à gestão pública e gastos. 
 
 Problemas a serem resolvidos:
 Qual o vereador mais atuante?
@@ -8,8 +8,6 @@ Quantas proposições temos por mês?
 Quantas proposições foram aprovadas?
 Quais são os assuntos mais propostos pelos vereadores?
 
-Solução proposta:
-Para solucionar esses problemas, foi utilizada uma técnica de WebScraping com Python para capturar os dados do site do Observatório Social de Indaial. Os dados foram armazenados em um banco de dados SQLServer e posteriormente analisados com a ferramenta de visualização Power BI.
 
 Resultados:
 Após a análise exploratória dos dados, foram obtidos os seguintes insights:
